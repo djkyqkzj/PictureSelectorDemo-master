@@ -5,6 +5,8 @@
 ![](https://github.com/yechaoa/PictureSelectorDemo/raw/master/pic/Screenshot_20180208-151505.png)
 ![](https://github.com/yechaoa/PictureSelectorDemo/raw/master/pic/Screenshot_20180208-151909.png)
 
+https://github.com/LuckSiege/PictureSelector#%E5%8A%9F%E8%83%BD%E7%89%B9%E7%82%B9
+
 
 功能特点
 1.适配android6.0 +系统
